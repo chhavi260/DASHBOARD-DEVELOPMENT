@@ -26,4 +26,4 @@ The dashboard visualizes student performance data with actionable insights.
 **Tools Used:** Power BI, CSV Dataset
 
 ## 📸 Output
-
+<img width="621" height="470" alt="Image" src="https://github.com/user-attachments/assets/cebfa8c2-469a-46da-9f9a-9799d4a92bda" />
